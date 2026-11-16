@@ -13,4 +13,6 @@
 - Both newly rendered pages were visually inspected: readable, no clipping or overlap.
 - Latest rendered previews: `../output/pdf/final_a3_style/`.
 - Original accepted code, report and immutable evaluated ZIP remain unchanged.
-- This task prepares local files only. No upload or portal-selection change occurred.
+- Exact final ZIP uploaded successfully as entry347: S=0.554080,300/300ok,
+  checker zero errors/warnings, report present. Final selection347 verified.
+- Moodle upload remains NOT completed because browser access was unavailable.
