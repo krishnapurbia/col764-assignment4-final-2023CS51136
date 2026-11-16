@@ -2,7 +2,7 @@
   "student_name": "Krishna Purbia",
   "student_id": "2023CS51136",
   "variant": "v69",
-  "prepared_at_utc": "2026-11-16T12:47:43.147360+00:00",
+  "prepared_at_utc": "2026-11-16T12:57:18.023686+00:00",
   "official_code_evaluation": {
     "id": 279,
     "S": 0.552436,
@@ -10,15 +10,17 @@
     "all_ok": true
   },
   "agent_sha256": "7f1e180ae9bc0877af0c3400ec9c526febec1ea39bd247e2a7b4ff95437b7de6",
-  "report_sha256": "39fc9cdf1da17da2e1d567478ce032ecc911a9133bcd0e062b172208d15013b8",
-  "zip_sha256": "ee7e19ef3e0b565e285137922db575e71edc9d9995d76c8dfa4e6cf57a8eec6c",
+  "report_sha256": "04d471f842f54d8ba71b3cc51923e5f7e100580c2b75f6993daf0dd61721a29f",
+  "zip_sha256": "13c012ad9e0c807947a2e4119a0513c38d97c486d865abbb97b2b8e57f7a7223",
   "zip_members": [
     "agent.py",
     "report.pdf"
   ],
   "report_pages": 2,
-  "checker": "Submission root: C:\\Users\\kp876\\AppData\\Local\\Temp\\tmp3s00q8te\\checked\nPython code size: 16546 bytes (limit 102400)\nreport.pdf present: True\nRESULT:  OK",
-  "report_change": "Identity line and Author metadata only; all other extracted report text identical.",
+  "checker": "Submission root: C:\\Users\\kp876\\AppData\\Local\\Temp\\tmprgeqjz5_\\checked\nPython code size: 16546 bytes (limit 102400)\nreport.pdf present: True\nRESULT:  OK",
+  "report_change": "Rewritten to match Assignment3 serif/navy/numbered-section style; includes all Assignment4 Section6 requirements and separates official279 aggregates from cached development errors.",
   "original_evaluated_archive_sha256": "10740f647d3ba4d359c547ee08b83ad0330971e739965e25a7ca9767831d4982",
-  "caveat": "Code matches evaluated entry279 exactly. Final ZIP differs because the report now includes the student name. No new upload or portal-selection mutation was performed."
+  "caveat": "Code matches evaluated entry279 exactly. The revised report changes the final ZIP hash. No grading-portal upload or selection mutation was performed.",
+  "report_style_reference": "2023CS51136_Assignment3_Report.pdf",
+  "visually_reviewed": true
 }
